@@ -13,9 +13,11 @@ Here are key links to get started using or contributing to the project:
 
 - **[ade](https://github.com/azuredemoenvironment/ade):** the main repository
   for ADE, containing all of the infrastructure code that is deployed.
-- **[ade-app]():** the microservice-based solution deployed into ADE services.
-- **[ade-docs wiki]():** more information about ADE, including how to use it,
-  how to contribute, tips and tricks, and more.
+- **[ade-app](https://github.com/azuredemoenvironment/ade-app):** the
+  microservice-based solution deployed into ADE services.
+- **[ade-docs wiki](https://github.com/azuredemoenvironment/ade-docs/wiki):**
+  more information about ADE, including how to use it, how to contribute, tips
+  and tricks, and more.
 - **[Project Backlog](https://github.com/orgs/azuredemoenvironment/projects/1/views/1):**
   issues across all projects organized based on priority and current activity.
 
